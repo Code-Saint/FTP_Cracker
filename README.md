@@ -30,4 +30,4 @@ This is a Python-based tool that simulates a **brute-force attack on FTP servers
 ## 📦 Usage
 
 ```bash
-python3 ftp_cracker.py -H your_IP -u anonymous -P passwords.txt -p 21
+python3 ftp_cracker.py -H victim_IP -u anonymous -P passwords.txt -p 21
